@@ -2,8 +2,8 @@
 
 CalcFlex is a customizable web-based calculator designed to make number crunching effortless and stylish. Personalize the calculator's appearance with custom CSS while keeping track of your calculations with the built-in history display.
 
-![CalcFlex Screenshot 1](/Screenshot/screenshot1.png)
-![CalcFlex Screenshot 2](/Screenshot/screenshot2.png)
+![CalcFlex Screenshot 1](/Screenshot/Screenshot1.png)
+![CalcFlex Screenshot 2](/Screenshot/Screenshot2.png)
 
 ## Features
 
