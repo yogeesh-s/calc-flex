@@ -32,7 +32,7 @@ Contributions are welcome! Please feel free to fork the repository, make your ch
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [youremail@example.com](mailto:youremail@example.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to me at [yogeesh.sryd@gmail.com](mailto:yogeesh.sryd@gmail.com).
 
 ## License
 
