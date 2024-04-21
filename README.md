@@ -14,7 +14,7 @@ CalcFlex is a customizable web-based calculator designed to make number crunchin
 
 ## Demo
 
-Check out the [demo video](/Video/demo.mp4) to see CalcFlex in action!
+Check out the [demo video](/Video/Demo.mp4) to see CalcFlex in action!
 
 ## Installation
 
