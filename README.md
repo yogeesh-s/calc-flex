@@ -18,11 +18,11 @@ Check out the [demo video](/Video/Demo.mp4) to see CalcFlex in action!
 
 ## Installation
 
-You can use CalcFlex by simply visiting [the website](https://your-calculator-app-url.com). No installation required!
+You can use CalcFlex by simply visiting [the website](https://yogeesh-s.github.io/calc-flex/). No installation required!
 
 ## Usage
 
-1. Visit the [CalcFlex Calculator](https://your-calculator-app-url.com).
+1. Visit the [CalcFlex Calculator](https://yogeesh-s.github.io/calc-flex/).
 2. Customize the app's appearance to your liking using the included CSS file.
 3. Start crunching numbers with ease and style!
 
